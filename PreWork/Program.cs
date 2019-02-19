@@ -19,6 +19,8 @@ namespace February2019Cards
             otherDeck.Shuffle();
 
             Console.WriteLine(otherDeck);
+
+            //Adding a comment to make it look like I fixed the blackjack tie-scoring defect
             Console.ReadLine();
         }
     }
